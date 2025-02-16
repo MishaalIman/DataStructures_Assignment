@@ -7,10 +7,15 @@ This repository contains implementations of fundamental Data Structures and Algo
 # 📂 Contents
 
 Arrays
+
 Linked Lists (Singly, Doubly, Circular)
+
 Stacks
+
 Queues
+
 HashMaps
+
 Sorting Algorithms (Bubble Sort, Merge Sort, Selection Sort, Insertion Sort etc.)
 
 
