@@ -1,75 +1,17 @@
-# DataStructures_Assignment
+# Data Structures and Algorithms
 
-Announcement: Maintaining a GitHub Repository
+# Overview
 
-Objective: To develop organizational and coding skills by maintaining a GitHub repository containing program files for all the topics covered in this course.
+This repository contains implementations of fundamental Data Structures and Algorithms, covering essential operations and problem-solving approaches. Each implementation follows a structured approach with meaningful comments to ensure clarity.
 
-Instructions:
-Create a GitHub Repository:
-
-Name your repository appropriately, e.g., DataStructures_Assignment or CourseWork_Repo.
-
-Make the repository public and ensure it is well-maintained throughout the course.
-
-Structure of the Repository: Your repository should include folders for each topic we have covered in the course. Inside each folder, create and maintain program files for the respective subtopics. The structure should look like this:
+# 📂 Contents
 
 Arrays
-
-Separate program files for all array-related problems
-
-Linked Lists
-
-Singular Linked List
-
-Singular Linked List (Modified with Tail)
-
-Double Linked List
-
+Linked Lists (Singly, Doubly, Circular)
 Stacks
-
-Implementation using Linked List
-
-Implementation using Arrays
-
-Programs for Stack Problems (all in separate files)
-
 Queues
-
-Implementation using Linked List
-
-Implementation using Arrays
-
-Programs for Queue Problems (all in separate files)
-
-Topics to be Covered in Future
-
-Implementations
-
-Practice Problem files
+HashMaps
+Sorting Algorithms (Bubble Sort, Merge Sort, Selection Sort, Insertion Sort etc.)
 
 
-Content Requirements:
-
-Stick to one programming language throughout the repository (e.g., Python, Java, or C++).
-
-Each program file should be properly named, e.g., stack_array_implementation.cpp or queue_linkedlist_problem1.py.
-
-Include comments in your code (for yourself to remember).
-
-Ensure all files are functional and tested.
-
-Your commit history will also be reviewed to assess how consistently you have been practicing. Frequent and meaningful updates will reflect positively on your grade.
-
-Grading Criteria:
-Organization (25%): Proper folder structure and clear naming conventions.
-
-Completeness (50%): All topics and subtopics covered with required program files.
-
-Code Quality (25%): Functional programs with your remembering comments and readability.
-
-Deadline:
-Your repository will be reviewed and graded at the end of the course. Ensure it is complete and up-to-date by the final submission date.
-
-Note: This assignment is a valuable opportunity to learn and practice real-world skills. If you face any challenges, feel free to reach out for help during class or office hours.
-
-Good luck, and happy coding!
+Working on this assignment deepened my understanding of core data structures and their real-world applications. I improved my problem-solving skills, learned to write cleaner and more efficient code, and strengthened my ability to analyze time and space complexity. Implementing these structures from scratch gave me a stronger foundation for more advanced algorithms and competitive programming.
